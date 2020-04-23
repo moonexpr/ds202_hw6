@@ -1,0 +1,10 @@
+"0","kib <- readxl::read_xlsx('KIB - Best in Show (public).xlsx', sheet='Best in show full sheet')
+"
+"2","New names:
+* `` -> ...2
+* `` -> ...4
+* `` -> ...5
+* `` -> ...9
+* `` -> ...10
+* … and 59 more problems
+"
